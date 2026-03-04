@@ -26,3 +26,5 @@ emotion2vec*
 GPT-SoVITS*
 modelscope_models
 examples/aishell/llm_asr_nar/*
+data/train_chinese.jsonl
+data/val_chinese.jsonl
